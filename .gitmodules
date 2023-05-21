@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/weickfer/foodflow-server.git
+[submodule "web"]
+	path = web
+	url = https://github.com/weickfer/foodflow-web.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/weickfer/foodflow-mobile.git
